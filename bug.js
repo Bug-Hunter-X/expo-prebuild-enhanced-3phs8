@@ -1,0 +1,1 @@
+While building an Expo project, I encountered an error related to the `expo prebuild` command. The error message was quite vague, mentioning something about a missing dependency or a problem with the build process, but it didn't pinpoint the exact issue.
